@@ -28,5 +28,23 @@ Page({
     '../../image/home/img_02.jpg', 
     '../../image/home/img_01.jpg']
   
+  },
+
+  click:function(){
+    wx.navigateTo({
+      url: '../knowledge/knowledge'
+    })
+
+  },
+
+
+
+
+
+  onShareAppMessage: function () {
+    return {
+      title: '自定义转发标题',
+      path: '../home/home'
+    }
   }
 })

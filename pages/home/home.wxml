@@ -17,7 +17,7 @@
     </view>
 
     <view class='content'>
-      <view class='content-item'>
+      <view class='content-item' bindtap='click'>
         <image src='../../image/home/img_01.jpg'></image>
         <view class='content-item-text'>
           <text>这里是标题1</text>
