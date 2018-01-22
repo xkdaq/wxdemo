@@ -1,8 +1,9 @@
-# wxdemo
-微信小程序 玩Android 的demo版
+#demo用来记笔记
 
 
-##致谢
-- 感谢微信公众平台开放文档以及api:https://mp.weixin.qq.com/debug/wxadoc/dev/
-- 感谢摄图网提供优质图片: http://699pic.com  
-- 感谢阿里巴巴矢量图标库iconfontt提供程序图标:http://www.iconfont.cn/home/index
+
+1.android studio 中的更改commit用户
+
+打开Git所在文件中的git.cmd.exe输入以下命令可更改用户名和邮箱：
+git config --global user.name "xk"
+git config --global user.email 1490552590@qq.com

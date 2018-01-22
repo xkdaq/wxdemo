@@ -19,27 +19,23 @@ Page({
     duration: 1000,
 
     listItem: [
-    '../../image/home/img_08.jpg',
-    '../../image/home/img_07.jpg', 
-    '../../image/home/img_06.jpg', 
-    '../../image/home/img_05.jpg', 
-    '../../image/home/img_04.jpg',
-    '../../image/home/img_03.jpg',
-    '../../image/home/img_02.jpg', 
-    '../../image/home/img_01.jpg']
-  
+      '../../image/home/img_08.jpg',
+      '../../image/home/img_07.jpg',
+      '../../image/home/img_06.jpg',
+      '../../image/home/img_05.jpg',
+      '../../image/home/img_04.jpg',
+      '../../image/home/img_03.jpg',
+      '../../image/home/img_02.jpg',
+      '../../image/home/img_01.jpg']
+
   },
 
-  click:function(){
+  click: function () {
     wx.navigateTo({
       url: '../knowledge/knowledge'
     })
 
   },
-
-
-
-
 
   onShareAppMessage: function () {
     return {
