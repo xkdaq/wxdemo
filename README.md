@@ -10,7 +10,7 @@
 
 2.android studio 3.0遇到问题:
 
-- studio3.0和butterknife高版本(8.8.1)编译冲突出现问题
+- studio3.0和butterknife高版本(8.8.1)编译冲突出现问题  
      Error:Unable to find method 'com.android.build.gradle.api.BaseVariant.getOutputs()Ljava/util/List;
      降低版本或者add maven(参考项目androidone)
 
