@@ -16,5 +16,6 @@
 
 3.android项目中的的配置  
 - android 中使用Lambda表达式  
-     http://blog.csdn.net/sbsujjbcy/article/details/46956611
-     我发现在新的版本中可以不用加上apply plugin: 'me.tatarka.retrolambda'这个了##
+     http://blog.csdn.net/sbsujjbcy/article/details/46956611  
+     我发现在新的版本中可以不用加上apply plugin: 'me.tatarka.retrolambda'这个了.
+     
