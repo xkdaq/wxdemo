@@ -14,3 +14,6 @@
      Error:Unable to find method 'com.android.build.gradle.api.BaseVariant.getOutputs()Ljava/util/List;  
      降低版本或者add maven(参考项目androidone)
 
+3.android项目中的的配置  
+- android 中使用Lambda表达式  
+     http://blog.csdn.net/sbsujjbcy/article/details/46956611
