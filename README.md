@@ -18,5 +18,5 @@
      我发现在新的版本中可以不用加上apply plugin: 'me.tatarka.retrolambda'这个了.
 
 
-##文章
+##文章  
 1.[Android应用发布](https://github.com/xkdaq/wxdemo/blob/master/article/Android%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83.md)
